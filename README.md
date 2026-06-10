@@ -41,6 +41,18 @@ npm run dev
 
 Then open http://localhost:3000.
 
+## Deploy to GitHub Pages
+
+This repo includes a workflow at `.github/workflows/deploy.yml` that builds and
+deploys the app to GitHub Pages whenever you push to `main`.
+
+One-time repo setup in GitHub:
+
+1. Go to **Settings → Pages**.
+2. Under **Build and deployment**, set **Source** to **GitHub Actions**.
+
+After that, each push to `main` will publish the latest version.
+
 ## Notes
 
 - The FFmpeg WASM core (~25 MB) is fetched from a CDN on first use and cached.
