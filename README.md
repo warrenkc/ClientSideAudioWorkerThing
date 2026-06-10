@@ -1,4 +1,4 @@
-# VocalClear
+# VocalClear by Warren
 
 Clean up spoken-word audio **entirely in the browser**. Drop in a quiet,
 distorted, or uneven voice recording and VocalClear automatically normalizes
