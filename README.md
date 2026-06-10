@@ -1,5 +1,7 @@
 # VocalClear by Warren
 
+[![View Site](https://img.shields.io/badge/View%20Site-Live-brightgreen?style=for-the-badge)](https://warrenkc.github.io/ClientSideAudioWorkerThing/)
+
 Clean up spoken-word audio **entirely in the browser**. Drop in a quiet,
 distorted, or uneven voice recording and VocalClear automatically normalizes
 the loudness, evens out the dynamics, and tames clipping — so it's easy to
